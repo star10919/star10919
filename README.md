@@ -1,7 +1,7 @@
 # Haein
 
 
-AI 개발자 이해인 입니다.<br>
+👋 AI 개발자 이해인 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 
 <br>
@@ -25,7 +25,7 @@ Machine learning / Deep learning <br>
 <br>
 
 💻 Certification <br>
-TensorFlow Developer Certificate
+TensorFlow Developer Certificate <br>
 <br>
 🏆 Competition <br>
 Dacon - 자연어 기반 기후기술분류 AI 경진대회 - Top 5% (46th) <br>
@@ -33,8 +33,8 @@ Dacon - 삼성 주최 화학식 물성 예측 경진대회 - Top 8% (73th) <br>
 Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
 <br>
 🏅 AWARD <br>
-삼성전자 주가예측 2등 수상 
+삼성전자 주가예측 2등 수상 <br>
 <br>
 📖 STUDY <br>
-비트캠프 서초 본원 인공지능 혁신 과정 3기 수료
+비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
 <br>
