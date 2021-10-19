@@ -22,6 +22,7 @@ Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
 <br>
 <br>
 
+☎ Contact <br>
 Email : star10919@naver.com <br>
 Dacon : https://dacon.io/myprofile/428876/home <br>
 <br>
