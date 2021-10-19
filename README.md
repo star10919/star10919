@@ -3,10 +3,8 @@
 
 👋 AI 개발자 이해인 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다. <br>
-
 <br>
 <br>
-
 💻 Certification <br>
 TensorFlow Developer Certificate <br>
 <br>
@@ -22,8 +20,6 @@ Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
 <br>
 <br>
-
-
 Email : star10919@naver.com <br>
 Dacon : https://dacon.io/myprofile/428876/home <br>
 <br>
