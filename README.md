@@ -3,7 +3,6 @@
 
 👋 AI 개발자 이해인 입니다.<br>
 <br>
-<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다. <br>
 <br>
 <br>
