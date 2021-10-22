@@ -32,13 +32,11 @@ Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
 <br>
 <br>
-<br>
 
 ☎ Contact <br>
 Email : star10919@naver.com <br>
 Dacon : https://dacon.io/myprofile/428876/home <br>
 <br>
-
 
 Language <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
