@@ -20,6 +20,7 @@ Object Detection, GAN, Time series 관련 프로젝트를 선호합니다. <br>
 TensorFlow Developer Certificate <br>
 <br>
 🏆 Competition <br>
+Kaggle - Optiver Realized Volatility Prediction - Top 12% (471th) <br>
 Dacon - 자연어 기반 기후기술분류 AI 경진대회 - Top 5% (46th) <br>
 Dacon - 삼성 주최 화학식 물성 예측 경진대회 - Top 8% (73th) <br>
 Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
