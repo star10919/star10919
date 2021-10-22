@@ -45,6 +45,10 @@ Machine learning / Deep learning <br>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> 
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> 
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> 
+<br>
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)<br> 
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDJSull93&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=true)](https://hits.seeyoufarm.com)
+<br> 
 
-<br>
-<br>
