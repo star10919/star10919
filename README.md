@@ -1,11 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a3edff&height=300&section=header&text=AI_Dev&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AI_Dev&fontSize=70)
 <br>
 <br>
 
 👋 AI 개발자 이해인 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다. <br>
-<br>
 <br>
 💻 Certification <br>
 TensorFlow Developer Certificate <br>
@@ -21,7 +20,6 @@ Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 16% (126th) <br>
 <br>
 📖 STUDY <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
-<br>
 <br>
 ☎ Contact <br>
 Email : star10919@naver.com <br>
