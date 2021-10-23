@@ -37,6 +37,6 @@ Machine learning / Deep learning <br>
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=star10919&hide=contribs&theme=merko&show_icons=true,prs)](https://github.com/anuraghazra/github-readme-stats)<br> 
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDJSull93&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstar10919&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=true)](https://hits.seeyoufarm.com)
 <br> 
 
