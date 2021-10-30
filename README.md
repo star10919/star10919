@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AI_Dev&fontSize=70)
 <br>
 <br>
+<br>
 👋 AI 개발자 이해인 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다. <br>
 <br>
