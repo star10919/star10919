@@ -20,7 +20,8 @@ Kaggle - Optiver Realized Volatility Prediction - Top 12% <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
 <br>
 ☎ Contact <br>
-Email : star10919@naver.com <br>
+Email : a72523162@gmail.com <br>
+Blog : https://bananapudding.tistory.com/ <br>
 Dacon : https://dacon.io/myprofile/428876/home <br>
 <br>
 
