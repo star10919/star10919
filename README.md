@@ -18,10 +18,11 @@ Kaggle - Optiver Realized Volatility Prediction - Top 12% <br>
 <br>
 📖 STUDY <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
+패스트캠퍼스 프론트엔드 종합반:HTML,CSS,JS,React 과정 진행 <br>
 <br>
 ☎ Contact <br>
 Email : a72523162@gmail.com <br>
-Blog : https://bananapudding.tistory.com/ <br>
+Blog : https://bananapudding.tistory.com <br>
 Dacon : https://dacon.io/myprofile/428876/home <br>
 <br>
 
